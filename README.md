@@ -50,3 +50,14 @@ For the purposes of this guide, we will not install any custom plugins yet. Howe
 Select "Install suggested plugins".
 
 <img width="1648" alt="Screen Shot 2021-04-08 at 2 43 24 PM" src="https://user-images.githubusercontent.com/569351/114080015-ddd2a880-9878-11eb-8eab-76b3476ff433.png">
+
+### Install Plugins
+Wait for the Jenkins plugins to install
+
+<img width="1648" alt="Screen Shot 2021-04-08 at 2 44 16 PM" src="https://user-images.githubusercontent.com/569351/114080097-f6db5980-9878-11eb-8b29-17d1864f9dc7.png">
+
+### Create First Admin User
+Setup a user name and password. Keep in mind that if you are doing this in a production environment, port 8080 will be public.
+
+<img width="1648" alt="Screen Shot 2021-04-08 at 2 45 10 PM" src="https://user-images.githubusercontent.com/569351/114080204-1bcfcc80-9879-11eb-9f72-13959d3d6770.png">
+
