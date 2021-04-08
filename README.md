@@ -33,3 +33,11 @@ This may also be found at: /Users/username/.jenkins/secrets/initialAdminPassword
 *************************************************************
 
 ```
+
+## Launch Jenkins
+Open a browser and navigate to [http://localhost:8080](http://localhost:8080)
+
+### Installing Plugins
+For the purposes of this guide, we will not install any custom plugins yet. However, I will make note of the [Jenkins Plugins Index](https://plugins.jenkins.io) that is available to us. We will want to revisit this once we have progressed in our knowledge of Jenkins.
+
+
