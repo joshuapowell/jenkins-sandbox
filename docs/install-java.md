@@ -1,6 +1,5 @@
-# Jenkins Sandbox
-A sanbox project for exploring the Jenkins Automation Server.
-
+# Install
+This document gives a brief overview of how to run a local Jenkins instance using Java (OpenJDK) and the Jenkins .WAR file.
 
 ## Prerequisites for Exploring Jenkins
 I am running Jenkins based on the "Regular Releases" by using the Generic Java Package (.war) from the [Jenkins Downloads page](https://www.jenkins.io/download/).
