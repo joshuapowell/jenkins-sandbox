@@ -61,3 +61,7 @@ Setup a user name and password. Keep in mind that if you are doing this in a pro
 
 <img width="1648" alt="Screen Shot 2021-04-08 at 2 45 10 PM" src="https://user-images.githubusercontent.com/569351/114080204-1bcfcc80-9879-11eb-9f72-13959d3d6770.png">
 
+### Instance Configuration
+If you are setting this up for a production environment beyond a sandbox, you will want to confirm the URL entered is correct. The URL here "is required for proper operation of many Jenkins features including email notifications, PR status updates, and the BUILD_URL environment variable provided to build steps."
+
+<img width="1648" alt="Screen Shot 2021-04-08 at 2 46 16 PM" src="https://user-images.githubusercontent.com/569351/114080378-59345a00-9879-11eb-8450-515bd5a79e76.png">
