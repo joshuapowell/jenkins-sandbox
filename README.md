@@ -19,7 +19,8 @@ After Jenkins has started it should inform you of the installation password as f
 ```
 *************************************************************
 *************************************************************
-*************************************************************
+*************************************************************<img width="1648" alt="Screen Shot 2021-04-08 at 2 42 17 PM" src="https://user-images.githubusercontent.com/569351/114079805-9f3cee00-9878-11eb-8f5d-7696f8f9c468.png">
+
 
 Jenkins initial setup is required. An admin user has been created and a password generated.
 Please use the following password to proceed to installation:
@@ -37,7 +38,15 @@ This may also be found at: /Users/username/.jenkins/secrets/initialAdminPassword
 ## Launch Jenkins
 Open a browser and navigate to [http://localhost:8080](http://localhost:8080)
 
-### Installing Plugins
+### Plugins
 For the purposes of this guide, we will not install any custom plugins yet. However, I will make note of the [Jenkins Plugins Index](https://plugins.jenkins.io) that is available to us. We will want to revisit this once we have progressed in our knowledge of Jenkins.
 
+## Installing Jenkins
 
+### Unlock Jenkins
+<img width="1648" alt="Screen Shot 2021-04-08 at 2 43 00 PM" src="https://user-images.githubusercontent.com/569351/114079919-bda2e980-9878-11eb-963c-0fa40ae2fc06.png">
+
+### Customize Jenkins
+Select "Install suggested plugins".
+
+<img width="1648" alt="Screen Shot 2021-04-08 at 2 43 24 PM" src="https://user-images.githubusercontent.com/569351/114080015-ddd2a880-9878-11eb-8eab-76b3476ff433.png">
