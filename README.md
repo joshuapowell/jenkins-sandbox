@@ -6,4 +6,4 @@ A sanbox project for exploring the Jenkins Automation Server.
 
 - Installation
   - [Installing with Java](docs/InstallingWithJava.md)
-  - Installing with Docker
+  - [Installing with Docker](docs/InstallingWithDocker.md)
