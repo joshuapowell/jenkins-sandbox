@@ -1,4 +1,4 @@
-# Install
+# Installing with Java
 This document gives a brief overview of how to run a local Jenkins instance using Java (OpenJDK) and the Jenkins .WAR file.
 
 ## Prerequisites for Exploring Jenkins
