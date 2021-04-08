@@ -19,8 +19,7 @@ After Jenkins has started it should inform you of the installation password as f
 ```
 *************************************************************
 *************************************************************
-*************************************************************<img width="1648" alt="Screen Shot 2021-04-08 at 2 42 17 PM" src="https://user-images.githubusercontent.com/569351/114079805-9f3cee00-9878-11eb-8f5d-7696f8f9c468.png">
-
+*************************************************************
 
 Jenkins initial setup is required. An admin user has been created and a password generated.
 Please use the following password to proceed to installation:
