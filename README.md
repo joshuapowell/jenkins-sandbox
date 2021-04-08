@@ -70,3 +70,8 @@ If you are setting this up for a production environment beyond a sandbox, you wi
 That completes our installation process.
 
 <img width="1648" alt="Screen Shot 2021-04-08 at 2 47 46 PM" src="https://user-images.githubusercontent.com/569351/114080466-6fdab100-9879-11eb-8d77-58203585de74.png">
+
+### Opening the Dashboard
+Clicking on the Start Jenkins button will direct you to the Jenkins Dashboard.
+
+<img width="1179" alt="Screen Shot 2021-04-08 at 2 49 24 PM" src="https://user-images.githubusercontent.com/569351/114080655-a1537c80-9879-11eb-8410-5cdd8d6f07e7.png">
