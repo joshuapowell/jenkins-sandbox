@@ -26,7 +26,7 @@ Please use the following password to proceed to installation:
 
 abcdef0123456789abcdef0123456789
 
-This may also be found at: /Users/joshuapowell/.jenkins/secrets/initialAdminPassword
+This may also be found at: /Users/username/.jenkins/secrets/initialAdminPassword
 
 *************************************************************
 *************************************************************
